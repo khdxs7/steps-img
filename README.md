@@ -1,1 +1,1 @@
-# blog-img
+# steps-img
